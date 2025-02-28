@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\soporte\\source\\repos\\consoleapp2\\consoleapp2\\pokemons\\interfacepokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\pokemons\\interfacepokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\soporte\\source\\repos\\consoleapp2\\consoleapp2\\pokemons\\habilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\pokemons\\habilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\soporte\\source\\repos\\consoleapp2\\consoleapp2\\pokemons\\modelpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\pokemons\\modelpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\soporte\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DF7D8-295D-4EF8-B9E5-EA6A30C8D60A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Habilities.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\Habilities.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Pokemons\\Habilities.cs",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\Habilities.cs",
+              "RelativeToolTip": "ConsoleApp2\\Pokemons\\Habilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:13:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfacePokemons.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\InterfacePokemons.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Pokemons\\InterfacePokemons.cs",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\InterfacePokemons.cs*",
+              "RelativeToolTip": "ConsoleApp2\\Pokemons\\InterfacePokemons.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:08:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\ModelPokemon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Pokemons\\ModelPokemon.cs",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Pokemons\\ModelPokemon.cs*",
+              "RelativeToolTip": "ConsoleApp2\\Pokemons\\ModelPokemon.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:08:08.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:03:42.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
